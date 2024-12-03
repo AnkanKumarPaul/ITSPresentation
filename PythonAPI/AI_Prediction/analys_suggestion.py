@@ -1,6 +1,6 @@
 student_answer_list = {}
 
-suggestion_list = {
+suggestion_list =  {
     "courseList": [
         {
             "Stream": "IT",
@@ -137,6 +137,7 @@ suggestion_list = {
                     "CourseVideoLink": "https://youtu.be/SqcY0GlETPk?si=HCE7ecZk3eNf-AbD"
                 }
             ]
+        
         },
         {
             "Stream": "IT",
@@ -154,26 +155,195 @@ suggestion_list = {
                     "CourseVideoLink": "https://youtu.be/48SUuk8e55c?si=2aVcZldjJoVpqT70"
                 }
             ]
+},     
+        {
+            "Stream": "CSE",
+            "Difficulty": "Easy",
+            "Percentage": "30%",
+            "Suggestion": [
+                {
+                    "CourseName": "HTML",
+                    "CourseLink": "https://www.w3schools.com/html/",
+                    "CourseVideoLink": "https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT"
+                },
+                {
+                    "CourseName": "CSS",
+                    "CourseLink": "https://www.w3schools.com/css/",
+                    "CourseVideoLink": "https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Easy",
+            "Percentage": "60%",
+            "Suggestion": [
+                {
+                    "CourseName": "HTML5",
+                    "CourseLink": "https://www.w3schools.com/html/",
+                    "CourseVideoLink": "https://youtu.be/XZwBNDGuWGU?si=BvSLKgjLVXR-Mo_K"
+                },
+                {
+                    "CourseName": "Bootstrap",
+                    "CourseLink": "https://getbootstrap.com/docs/5.0/getting-started/introduction/",
+                    "CourseVideoLink": "https://youtu.be/vpAJ0s5S2t0?si=RaDzfqxcV3Mvmxzc"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Easy",
+            "Percentage": "90%",
+            "Suggestion": [
+                {
+                    "CourseName": "HTML",
+                    "CourseLink": "https://www.w3schools.com/html/",
+                    "CourseVideoLink": "https://youtu.be/HcOc7P5BMi4?si=FWNvGOfQ3frUlGjT"
+                },
+                {
+                    "CourseName": "ML",
+                    "CourseLink": "https://www.geeksforgeeks.org/machine-learning/",
+                    "CourseVideoLink": "https://youtu.be/ukzFI9rgwfU?si=Q8fIkwWupfXmzXRe"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Medium",
+            "Percentage": "30%",
+            "Suggestion": [
+                {
+                    "CourseName": "HTML",
+                    "CourseLink": "https://www.w3schools.com/html/html_scripts.asp",
+                    "CourseVideoLink": "https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f"
+                },
+                {
+                    "CourseName": "ML",
+                    "CourseLink": "https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp",
+                    "CourseVideoLink": "https://youtu.be/LKlOH8OLLcw?si=MgbJuR7GmkwMUNdS"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Medium",
+            "Percentage": "60%",
+            "Suggestion": [
+                {
+                    "CourseName": "CSS",
+                    "CourseLink": "https://www.w3schools.com/css/",
+                    "CourseVideoLink": "https://youtu.be/ESnrn1kAD4E?si=OXLiMCF8i2IelO7C"
+                },
+                {
+                    "CourseName": "ML",
+                    "CourseLink": "https://www.geeksforgeeks.org/python-for-machine-learning/?ref=lbp",
+                    "CourseVideoLink": "https://youtu.be/cHT-qLnRm0E?si=NMgW_OstrO4fmC82"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Medium",
+            "Percentage": "90%",
+            "Suggestion": [
+                {
+                    "CourseName": "ML",
+                    "CourseLink": "https://www.geeksforgeeks.org/flowchart-for-basic-machine-learning-models/?ref=lbp",
+                    "CourseVideoLink": "https://youtu.be/GBMMtXRiQX0?si=OEaL1yw6UAB7LV00"
+                },
+                {
+                    "CourseName": "AI",
+                    "CourseLink": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "CourseVideoLink": "https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Hard",
+            "Percentage": "30%",
+            "Suggestion": [
+                {
+                    "CourseName": "HTML",
+                    "CourseLink": "https://www.w3schools.com/html/html_responsive.asp",
+                    "CourseVideoLink": "https://youtu.be/FQdaUv95mR8?si=NM6WoP2xjgpMkr2f"
+                },
+                {
+                    "CourseName": "AI",
+                    "CourseLink": "https://cloud.google.com/learn/what-is-artificial-intelligence",
+                    "CourseVideoLink": "https://youtu.be/oV74Najm6Nc?si=ibyXzLqGTnimLCMl"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Hard",
+            "Percentage": "60%",
+            "Suggestion": [
+                {
+                    "CourseName": "Bootstrap",
+                    "CourseLink": "https://getbootstrap.com/docs/5.0/components/spinners/",
+                    "CourseVideoLink": "https://youtu.be/eow125xV5-c?si=AVPSBJ1adnFw_i1O"
+                },
+                {
+                    "CourseName": "AI",
+                    "CourseLink": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "CourseVideoLink": "https://youtu.be/KKNCiRWd_j0?si=QVmk2W_teuvqJMHt"
+                }
+            ]
+        },
+        {
+            "Stream": "CSE",
+            "Difficulty": "Hard",
+            "Percentage": "90%",
+            "Suggestion": [
+                {
+                    "CourseName": "ML",
+                    "CourseLink": "https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/?ref=lbp",
+                    "CourseVideoLink": "https://youtu.be/CWzpomtLqqs?si=LTugCaaGcmv5gLbx"
+                },
+                {
+                    "CourseName": "AI",
+                    "CourseLink": "https://www.britannica.com/technology/artificial-intelligence",
+                    "CourseVideoLink": "https://youtu.be/KKNCiRWd_j0?si=QVmk2W_teuvqJMHt"
+                }
+            ]
         }
     ]
 }
-
+    
 def get_suggestions(student_answer_list, suggestion_list):
+    # Extract scores
     easy_score = 0
     medium_score = 0
     hard_score = 0
-    
-    if student_answer_list['easy']['total_question']!=0:
-        easy_score = (student_answer_list['easy']['total_question'] - student_answer_list['easy']['right']) / student_answer_list['easy']['total_question'] * 100
-    if student_answer_list['medium']['total_question']!=0:
-        medium_score = (student_answer_list['medium']['total_question'] - student_answer_list['medium']['right']) / student_answer_list['medium']['total_question'] * 100
-    if student_answer_list['hard']['total_question']!=0:
-        hard_score = (student_answer_list['hard']['total_question'] - student_answer_list['hard']['right']) / student_answer_list['hard']['total_question'] * 100
-    
+    stream = student_answer_list.get('Stream', None)  # Extract stream
+
+    if student_answer_list['easy']['total_question'] != 0:
+        easy_score = (
+            (student_answer_list['easy']['total_question'] - student_answer_list['easy']['right']) /
+            student_answer_list['easy']['total_question']
+        ) * 100
+    if student_answer_list['medium']['total_question'] != 0:
+        medium_score = (
+            (student_answer_list['medium']['total_question'] - student_answer_list['medium']['right']) /
+            student_answer_list['medium']['total_question']
+        ) * 100
+    if student_answer_list['hard']['total_question'] != 0:
+        hard_score = (
+            (student_answer_list['hard']['total_question'] - student_answer_list['hard']['right']) /
+            student_answer_list['hard']['total_question']
+        ) * 100
+
     suggestions = []
 
-    # Find the appropriate suggestions based on the scores
+    # Match suggestions by difficulty, percentage, and stream
     for course in suggestion_list["courseList"]:
+        # Ensure the stream matches
+        if course["Stream"] != stream:
+            continue
+
+        # Filter by difficulty and percentage
         if course["Difficulty"] == "Easy" and easy_score >= int(course["Percentage"].strip('%')):
             suggestions.append({"Difficulty": "Easy", "Courses": course["Suggestion"]})
         elif course["Difficulty"] == "Medium" and medium_score >= int(course["Percentage"].strip('%')):
@@ -183,23 +353,22 @@ def get_suggestions(student_answer_list, suggestion_list):
 
     return suggestions
 
-def get_suggestion_list(list):
-    student_answer_list = list
+
+def get_suggestion_list(student_answer_list):
+    # Validate input and extract the stream
+    student_answer_list['Stream'] = student_answer_list.get('Stream', None)
+
     # Get suggestions for the student
     suggestions = get_suggestions(student_answer_list, suggestion_list)
-    
-    print(suggestions)
-
-    '''
-    # Print the suggestions
-    for suggestion in suggestions:
-        print(f"Difficulty: {suggestion['Difficulty']}")
-        for course in suggestion["Courses"]:
-            print(f"CourseName: {course['CourseName']}")
-            print(f"CourseLink: {course['CourseLink']}")
-            print(f"CourseVideoLink: {course['CourseVideoLink']}")
-        print()
-        
-    '''
-    
     return suggestions
+
+
+# Example usage:
+# student_answer_list = {
+#     "Stream": "IT",
+#     "easy": {"total_question": 10, "right": 6},
+#     "medium": {"total_question": 8, "right": 5},
+#     "hard": {"total_question": 5, "right": 2},
+# }
+# result = get_suggestion_list(student_answer_list)
+# print(result)
